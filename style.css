@@ -1,0 +1,43 @@
+h1 {
+  text-align: center;
+}
+
+.title {
+  padding-top: 50px;
+}
+
+.form-container {
+  padding-top: 10px;
+  margin: auto;
+  width: 50%;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+textarea {
+  resize: none;
+}
+
+a {
+    text-align: center;
+}
+
+.github
+{
+  margin-top: 40px;
+}
+
+.links-container{
+  display: flex;
+  flex-direction: column;
+}
