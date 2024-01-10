@@ -14,7 +14,7 @@ mathematics. The purpose of Bin2Dec is to provide practice and
 understanding of how binary calculations.
 
 Bin2Dec allows the user to enter strings of up to 8 binary digits, 0's
-and 1's, in any sequence and then displays its decimal equivalent.
+and 1's, in any sequence and then displays its decimal equivalent
 
 This challenge requires that the developer implementing it follow these
 constraints:
