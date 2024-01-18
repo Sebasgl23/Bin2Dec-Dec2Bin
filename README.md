@@ -1,4 +1,4 @@
-# Bin2Dec - Dec2Bin (Binary to Decimal converter and Decimal to Binary converter
+# Bin2Dec - Dec2Bin (Binary to Decimal converter and Decimal to Binary converter 
 
 Live demo of the project [here](https://sebasgl23.github.io/Bin2Dec-Dec2Bin/)
 
